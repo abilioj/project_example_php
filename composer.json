@@ -1,0 +1,11 @@
+{
+    "name": "ajgf/project_example_php",
+    "type": "project",
+    "authors": [
+        {
+            "name": "abilioj",
+            "email": "abilioj@live.com"
+        }
+    ],
+    "require": {}
+}
